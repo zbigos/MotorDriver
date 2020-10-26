@@ -64,6 +64,8 @@ void Error_Handler(void);
 #define A_CHANNEL_ENCODER_GPIO_Port GPIOA
 #define A_CHANNEL_ENCODER2_Pin GPIO_PIN_1
 #define A_CHANNEL_ENCODER2_GPIO_Port GPIOA
+#define CHA_FB_Pin GPIO_PIN_2
+#define CHA_FB_GPIO_Port GPIOA
 #define CHA_INB_Pin GPIO_PIN_14
 #define CHA_INB_GPIO_Port GPIOB
 #define CHA_INA_Pin GPIO_PIN_7
